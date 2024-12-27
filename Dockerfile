@@ -3,7 +3,7 @@ FROM python:3.12.7-alpine3.20 AS base
 
 # Metadata
 LABEL maintainer="ajalilian <a.jalilian66@gmail.com>"
-LABEL version="1.0.0"
+LABEL version="5.1.4"
 LABEL description="Optimized Django base image using Alpine Linux"
 
 # Environment variables
